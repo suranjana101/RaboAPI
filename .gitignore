@@ -1,6 +1,13 @@
 # Compiled class file
 *.class
-*.DS
+*.DS_Store
+*.classpath
+*.mvn/
+*.project
+*.settings
+*mvnw
+*target/
+
 
 # Log file
 *.log

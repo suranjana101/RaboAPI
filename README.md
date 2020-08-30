@@ -18,7 +18,7 @@ For using the recommended IDE you require:
  Clone the repo or download the repo from this link
 
 ```
-https://github.com/suranjana101/Cognizant.git
+https://github.com/suranjana101/RaboAPI.git
 ```
 
 Setup IDE
