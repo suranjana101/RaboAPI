@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "employeename": "employee1",
+  "firstName": "employee1",
+  "lastName": "test",
+  "email": "employee1@cognizant.com",
+  "password": "password",
+  "phone": "1234567897",
+  "employeeStatus": 0
+}
